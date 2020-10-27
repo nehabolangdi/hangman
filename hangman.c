@@ -2,6 +2,7 @@
 #include<string.h>
 main()
 {
+
         char str[20];	char b[20];	char let;
         int len,i=0,life,flag=0;
 	int vis[20];fflush(stdin);
