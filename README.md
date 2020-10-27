@@ -1,1 +1,1 @@
-# hangman game in C
+# hangman game in c
